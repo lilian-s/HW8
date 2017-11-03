@@ -1,5 +1,5 @@
 # Name: Lilian Sheu
-# Discussion: Fridays 3-4 pm
+# Discussion: Thursdays 3-4 pm
 
 # Import statements
 import unittest
