@@ -1,5 +1,5 @@
 # Name: Lilian Sheu
-# Discussion: Thursdays 3-4 pm
+# Discussion: Fridays 3-4 pm
 
 # Import statements
 import unittest
@@ -10,6 +10,7 @@ import re
 import tweepy
 import twitter_info # still need this in the same directory, filled out
 
+# because print was not working for the last cur.execute()
 import sys
 def uprint(*objects, sep=' ', end='\n', file=sys.stdout):
     enc = file.encoding
